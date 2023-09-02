@@ -19,4 +19,3 @@ for ticker in ibovespa_tickers:
 
 # Salve os dados em um arquivo XLSX
 ibovespa_data.to_excel('ibovespa_data.xlsx')
-
